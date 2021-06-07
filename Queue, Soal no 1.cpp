@@ -1,8 +1,3 @@
-//Gagah Rizky Mulyawan
-//20051397045
-//2020A Manajemen Informatika
-
-
 
 #include <iostream>
 using namespace std;
